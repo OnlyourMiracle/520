@@ -16,7 +16,7 @@ html, body {
 @media (max-width: 500px) {
   .top-container {
     position: absolute; /* 使用绝对定位 */
-    right: 50%; /* 右下角 */
+    right: 40%; /* 右下角 */
     bottom: 600px; /* 右下角 */
     display: flex;
     justify-content: center;
@@ -63,7 +63,7 @@ a {
 
 .top-container {
   position: absolute; /* 使用绝对定位 */
-  right: 50%; /* 右下角 */
+  right: 40%; /* 右下角 */
   bottom: 600px; /* 右下角 */
   display: flex;
   justify-content: center;
