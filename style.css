@@ -16,7 +16,7 @@ html, body {
 @media screen and (max-width: 520px) {
   .top-container {
     position: absolute; /* 使用绝对定位 */
-    right: 500px; /* 右下角 */
+    right: 400px; /* 右下角 */
     bottom: 600px; /* 右下角 */
     display: flex;
     justify-content: center;
@@ -29,7 +29,7 @@ html, body {
     color: white;       /* 设置文字颜色为白色 */
     text-decoration: none; /* 去掉下划线 */
     text-align: center;
-    font-size: 30px;  /* 设置字体大小为24像素 */
+    font-size: 35px;  /* 设置字体大小为24像素 */
   }
   
   /* 如果需要，也可以为.wrap添加样式来确保所有相关元素的样式都被覆盖 */
@@ -37,7 +37,7 @@ html, body {
     color: white;       /* 设置文字颜色为白色 */
     text-decoration: none; /* 去掉下划线 */
     text-align: center;
-    font-size: 30px;  /* 设置字体大小为24像素 */
+    font-size: 35px;  /* 设置字体大小为24像素 */
   }
 }
 
